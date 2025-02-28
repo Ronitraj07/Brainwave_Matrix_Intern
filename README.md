@@ -18,16 +18,15 @@ Brainwave_Matrix_Intern/
 │-- backend/
 │   ├── main.py          # FastAPI backend
 │   ├── scanner.py       # Phishing detection logic
-│   ├── __init__.py      # (Optional) Backend module init file
 │
 │-- frontend/
 │   ├── index.html       # Website UI
-│   ├── style.css        # Cool modern styling
+│   ├── style.css        # Modern styling
 │   ├── script.js        # JavaScript logic
 │   ├── server.js        # Express.js frontend server
 │
 │-- README.md            # Project documentation
-│-- requirements.txt      # Backend dependencies
+│-- requirements.txt     # Backend dependencies
 │-- package.json         # Node.js dependencies
 ```
 
