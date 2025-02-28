@@ -14,7 +14,7 @@
 
 ## **📂 Project Structure**
 ```
-Phishing-Scanner/
+Brainwave_Matrix_Intern/
 │-- backend/
 │   ├── main.py          # FastAPI backend
 │   ├── scanner.py       # Phishing detection logic
@@ -37,8 +37,8 @@ Phishing-Scanner/
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/Phishing-Scanner.git
-cd Phishing-Scanner
+git clone https://github.com/Ronitraj07/Brainwave_Matrix_Intern.git
+cd Brainwave_Matrix_Intern
 ```
 
 ---
@@ -98,8 +98,4 @@ Want to improve the project? Feel free to **fork**, **star**, and submit a **pul
 ---
 
 ## **📜 License**
-This project is **MIT Licensed**. Use freely and responsibly.  
-
----
-
-Now, **upload this to GitHub**, and you're good to go! 🚀 Let me know if you need any edits! 🔥
+This project is **MIT Licensed**. Use freely and responsibly. 
