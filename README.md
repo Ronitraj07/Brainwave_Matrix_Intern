@@ -27,7 +27,6 @@ Phishing-Scanner/
 │   ├── style.css        # Cool modern styling
 │   ├── script.js        # JavaScript logic
 │   ├── server.js        # Express.js frontend server
-│
 │-- README.md            # Project documentation
 │-- requirements.txt      # Backend dependencies
 │-- package.json         # Node.js dependencies
