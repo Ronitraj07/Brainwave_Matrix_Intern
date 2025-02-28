@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phishing Link Scanner</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🔍 Phishing Link Scanner</h1>
+        <p>Check if a website is safe before clicking.</p>
+        
+        <div class="scan-box">
+            <input type="text" id="urlInput" placeholder="Enter a URL">
+            <button onclick="scanUrl()">Scan</button>
+        </div>
+
+        <div id="loading" class="hidden">⏳ Scanning...</div>
+        
+        <div id="result-box" class="hidden">
+            <p id="result"></p>
+        </div>
+
+        <button class="toggle-theme" onclick="toggleTheme()">🌙 Toggle Mode</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
