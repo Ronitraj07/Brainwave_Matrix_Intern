@@ -4,8 +4,6 @@
 
 🚀 A **super cool, modern, and interactive** phishing link scanner built with **FastAPI (Python)** for the backend and **HTML, CSS, JavaScript, Node.js** for the frontend.  
 
-![Phishing Scanner Preview](https://via.placeholder.com/800x400?text=Project+Preview)  
-
 ## **✨ Features**  
 ✅ **Beautiful UI** (Glassmorphism + Dark Mode)  
 ✅ **Real-time URL Scanning** (Basic phishing detection)  
@@ -16,19 +14,18 @@
 
 ## **📂 Project Structure**
 ```
-Phishing-Scanner/
+Brainwave_Matrix_Intern/
 │-- backend/
 │   ├── main.py          # FastAPI backend
 │   ├── scanner.py       # Phishing detection logic
-│   ├── __init__.py      # (Optional) Backend module init file
 │
 │-- frontend/
 │   ├── index.html       # Website UI
-│   ├── style.css        # Cool modern styling
+│   ├── style.css        # Modern styling
 │   ├── script.js        # JavaScript logic
 │   ├── server.js        # Express.js frontend server
 │-- README.md            # Project documentation
-│-- requirements.txt      # Backend dependencies
+│-- requirements.txt     # Backend dependencies
 │-- package.json         # Node.js dependencies
 ```
 
@@ -38,8 +35,8 @@ Phishing-Scanner/
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/Phishing-Scanner.git
-cd Phishing-Scanner
+git clone https://github.com/Ronitraj07/Brainwave_Matrix_Intern.git
+cd Brainwave_Matrix_Intern
 ```
 
 ---
@@ -99,8 +96,4 @@ Want to improve the project? Feel free to **fork**, **star**, and submit a **pul
 ---
 
 ## **📜 License**
-This project is **MIT Licensed**. Use freely and responsibly.  
-
----
-
-Now, **upload this to GitHub**, and you're good to go! 🚀 Let me know if you need any edits! 🔥
+This project is **MIT Licensed**. Use freely and responsibly. 
