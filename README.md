@@ -4,8 +4,6 @@
 
 🚀 A **super cool, modern, and interactive** phishing link scanner built with **FastAPI (Python)** for the backend and **HTML, CSS, JavaScript, Node.js** for the frontend.  
 
-![Phishing Scanner Preview](https://via.placeholder.com/800x400?text=Project+Preview)  
-
 ## **✨ Features**  
 ✅ **Beautiful UI** (Glassmorphism + Dark Mode)  
 ✅ **Real-time URL Scanning** (Basic phishing detection)  
